@@ -573,7 +573,7 @@
           top: `${y - size / 2}px`
         });
 
-        button.append(ripple);
+        append(ripple);
 
         const animation = animate(
           ripple,

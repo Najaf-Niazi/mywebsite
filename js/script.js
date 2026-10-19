@@ -582,7 +582,7 @@
             { transform: "scale(1)", opacity: 0 }
           ],
           {
-            duration: 650,
+            duration: 950,
             easing: "ease-out"
           }
         );
